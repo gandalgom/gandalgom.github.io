@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 12 May 2022 08:40:56 GMT</lastBuildDate><item><title><![CDATA[Gatsby 블로그 만들기 전개 예정]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/20220512-0/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/20220512-0/</guid><pubDate>Tue, 10 May 2022 08:40:00 GMT</pubDate><content:encoded>&lt;p&gt;적조했습니다.&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 31 May 2022 15:14:38 GMT</lastBuildDate><item><title><![CDATA[Gatsby 블로그 Mk.2 개발중]]></title><description><![CDATA[쓰라는 포스팅은 안 쓰고 뭐하고 있는가 했더니, 기어이 블로그 자체를 다시 만들고 있었습니다. 여러 가지 일로 바빠서 블로그를 방치하고 있다가, Gatsby…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/20220531-0/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/20220531-0/</guid><pubDate>Tue, 31 May 2022 14:45:00 GMT</pubDate><content:encoded>&lt;p&gt;쓰라는 포스팅은 안 쓰고 뭐하고 있는가 했더니,&lt;br&gt;
+기어이 블로그 자체를 다시 만들고 있었습니다.&lt;/p&gt;
+&lt;p&gt;여러 가지 일로 바빠서 블로그를 방치하고 있다가, Gatsby 튜토리얼을 차근차근 살펴 보니,&lt;br&gt;
+각각의 기본적인 기능들이 매우 심플하게 잘 설명이 되어 있었습니다.&lt;br&gt;
+어렵게만 느껴졌던 개별적인 기능들을 어떻게 붙이는지 각 케이스 별로 잘 찾을 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;해서, 다소 경직되어 있던 기존의 스타터 테마를 수정하는 것보다,&lt;br&gt;
+최신 버전의 디폴트 상태에서 각각의 플러그인을 붙여 나가는 식으로 개발하는 것이 낫다고 판단하여,&lt;br&gt;
+일단 내부 기능들을 빠른 속도로 개발 중입니다.&lt;/p&gt;
+&lt;p&gt;덕택에 현재 사이트의 각각의 기능들을 훨씬 자세하게 설명하게 되는 기회가 되었고,&lt;br&gt;
+따라서 개발에 관한 설명들도 대폭 보강이 불가피하게 되어,&lt;br&gt;
+설명에 대한 프로세스 자체가 많이 바뀌게 될 것 같습니다.&lt;/p&gt;
+&lt;p&gt;개발중인 가칭 Mk.2 블로그가 기반이 완료되는 대로 교체하면서&lt;br&gt;
+블로그 자체를 어떻게 만드는가에 꽤 공을 들이는 형태로 보여드릴 예정입니다.
+물론, 이곳에는 블로그가 어떤 과정을 거쳐 만들어지게 되는지 굉장히 러프한 형태로 포스팅이 이어지고,&lt;br&gt;
+블로그 교체 시점에는 그 내용이 정돈된 형태로 같은 날짜의 포스팅으로 교체될 예정입니다.&lt;/p&gt;
+&lt;p&gt;새로 교체되는 Mk.2 블로그를 기대해 주시기 바랍니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 만들기 전개 예정]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/20220512-0/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/20220512-0/</guid><pubDate>Tue, 10 May 2022 08:40:00 GMT</pubDate><content:encoded>&lt;p&gt;적조했습니다.&lt;br&gt;
 그 동안 얘기를 어떻게 해볼까 고민을 많이 했는데요.&lt;/p&gt;
 &lt;p&gt;제가 하는 개발 일이 그렇듯,&lt;br&gt;
 &lt;strong&gt;차분하게 설계를 하지 않으면 제대로 된 이야기가 전개되지 않겠구나&lt;/strong&gt;&lt;br&gt;
